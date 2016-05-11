@@ -18,6 +18,7 @@ if($request != '') {
 $title = 'One Remote software development professionals available now';
 
 $title1 = 'One Remote software development professionals available now';
+$title2 = 'One Remote software development professionals available now';
 
 $description = 'Experienced remote software developers talent available to work with your in-house team within 4-6 weeks. Access full-time or part-time specialists from Europe’s largest and most affordable software engineering hub. Scale your software development capabilities while staying lean and agile today!';
 
